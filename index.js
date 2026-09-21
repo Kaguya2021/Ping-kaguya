@@ -3,7 +3,7 @@ const app = express();
 const PORT = process.env.PORT || 10000;
 
 // URL-адреса для пинга
-const KAGUYA_BOT_URL = 'https://kaguya2-0-bot-s1n1.onrender.com';
+const KAGUYA_BOT_URL = 'https://kaguya2-0-bot-clhl.onrender.com';
 // Вставь сюда URL этого пингера после первого деплоя на Render
 let SELF_URL = process.env.RENDER_EXTERNAL_URL || 'http://localhost:' + PORT;
 
